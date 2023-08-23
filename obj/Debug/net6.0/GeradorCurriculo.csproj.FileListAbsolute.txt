@@ -1,0 +1,15 @@
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.csproj.AssemblyReference.cache
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.AssemblyInfoInputs.cache
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.AssemblyInfo.cs
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.csproj.CoreCompileInputs.cache
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.exe
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.deps.json
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.runtimeconfig.json
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.dll
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\bin\Debug\net6.0\GeradorCurriculo.pdb
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.dll
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\refint\GeradorCurriculo.dll
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.pdb
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\GeradorCurriculo.genruntimeconfig.cache
+C:\Users\almeida_luiz\Desktop\GeradorCurriculo\obj\Debug\net6.0\ref\GeradorCurriculo.dll
